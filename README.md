@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1d8f,100:7c3aed&height=220&section=header&text=44Adxm&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20E-commerce%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b1d8f,100:7c3aed&height=220&section=header&text=44Adxm&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Web%20%7C%20E-commerce%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/44Adxm"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+modern+websites+%26+e-shops;Next.js+%E2%80%A2+React+%E2%80%A2+Tailwind+CSS;Smooth+motion+with+GSAP+%26+Framer+Motion;3D+on+the+web+with+Three.js" alt="Typing SVG" /></a>
 
@@ -40,8 +40,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=44Adxm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7c3aed&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44Adxm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=44Adxm&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=44Adxm&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
